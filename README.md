@@ -8,6 +8,4 @@ It has a bilevel architecture, the lower-level aims to adjust lower-level variab
 The division of upper-level and lower-level variables depends on the impact of these variables on solution feasibility.
 The variables with significant impacts on solution feasibility have larger probability to be allocated to lower-level.
 
-Detailed comments and documents will be added asap.
-
 For more information, please contact Xunzhao Yu (yuxunzhao@gmail.com).
